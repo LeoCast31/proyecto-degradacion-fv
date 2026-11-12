@@ -1,17 +1,16 @@
-Evaluacion de Degradacion en Modulos Fotovoltaicos
-Repositorio oficial del equipo para el analisis de regresion OLS.
+# Evaluación de Degradación en Módulos Fotovoltaicos
 
-Estructura del Repositorio
-data/: Datasets meteorologicos y de produccion regional.
+Repositorio oficial del equipo para el análisis de regresión OLS.
 
-scripts/: Codigo fuente para la ingenieria de caracteristicas.
+## Estructura del Repositorio
+- data/: Datasets meteorológicos y de producción regional.
+- scripts/: Código fuente para la ingeniería de características.
 
-Instrucciones de Instalacion y Ejecucion
-Clona el repositorio ejecutando esto en tu terminal:
-git clone https://github.com/LeoCast31/proyecto-degradacion-fv.git
+## Instrucciones de Instalación y Ejecución
 
-Instala las dependencias necesarias:
-pip install -r requirements.txt
-
-Ejecuta el script de calculo:
-python scripts/calcular_dosis.py
+1. Clona el repositorio ejecutando esto en tu terminal:
+   git clone https://github.com/LeoCast31/proyecto-degradacion-fv.git
+2. Instala las dependencias necesarias:
+   pip install -r requirements.txt
+3. Ejecuta el script de cálculo:
+   python scripts/calcular_dosis.py
